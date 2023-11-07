@@ -1,4 +1,7 @@
 # EX 3 SubQueries, Views and Joins 
+## Date:
+
+### 18/08/2023
 
 
 ## Create employee Table
@@ -209,3 +212,6 @@ LEFT:
 RIGHT:
 
 ![](3.10.2.png)
+
+## RESULT:
+Hence SubQueries, Views and Joins has been executed successfully.
